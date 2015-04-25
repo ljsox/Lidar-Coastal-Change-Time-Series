@@ -1,0 +1,9 @@
+-2 aqua
+-.2 aqua
+-0.1 grey
+0.1 grey
+1 yellow
+3 orange
+5 green
+10 brown
+40 white

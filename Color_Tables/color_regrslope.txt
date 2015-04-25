@@ -1,0 +1,12 @@
+-4 139 26 26 #firebrick4
+-1 205 51 51 #brown 4
+-0.5 238 99 99 #indianred2
+-0.1 255 64 64 #brown1
+-0.01 255 215 0 #gold1
+0 255 215 0 #gold1
+0.01 255 215 0 #gold1
+0.1 99 184 255 #steelblue1
+0.5 30 144 255 #dodgerblue1
+1 16 78 139 #dodgerblue4
+2 25 25 112 #midnightblue
+3 71 60 139 #slateblue4

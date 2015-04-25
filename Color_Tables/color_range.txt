@@ -1,0 +1,10 @@
+0 255:255:0 #yellow
+1.4 255:165:0 #orange
+2.0 255:75:0 #dark orange
+2.1 255:75:0 #dark orange
+2.2 124:252:0 #light green
+2.4 124:252:0 #light green
+4 139:37:0 #orange red
+8 139:37:0 #orange red
+9 199:21:133 #violet red
+40 199:21:133 #violet red
